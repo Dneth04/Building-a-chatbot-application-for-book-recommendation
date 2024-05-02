@@ -1,2 +1,3 @@
 # Building-a-chatbot-application-for-book-recommendation
-Revolutionizing book recommendations, this project crafts an automated Chatbot Application using Langchain and SerpAPI, ensuring personalized suggestions in real-time for a seamless user experience.
+
+This project revolves around crafting an automated Chatbot Application for Book Recommendations. Leveraging Langchain and its modules, the focus is on delivering personalized recommendations through interactive conversations. The system ensures real-time data retrieval by integrating SerpAPI. I've emphasized responsible use of OpenAI API for ethical deployment. Motivated by the need for innovative solutions, I aim to incorporate dynamic data generation solely through AI processes. By combining generative AI models, Langchain, and SERP-API, the project aims to revolutionize book recommendation systems, offering users a seamless and user-friendly experience.
